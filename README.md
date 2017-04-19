@@ -1,6 +1,6 @@
 # page-preloader
 page preloader
-'''
+```
 1. В HTML файл, сразу псле тега <body> поместить блок прелоадера:
 
 <div id="preloader">
@@ -14,4 +14,4 @@ page preloader
 <script src="libs/preloader/preloader.js"></script>
 
 p.s.: не забываем до подключения скрипта подключать jQuery
-'''
+```
